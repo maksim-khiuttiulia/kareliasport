@@ -6,9 +6,8 @@ class App extends React.Component<any, any> {
   render() {
     return (
         <SafeAreaView>
-          <Text>
-            Sukaaaaa
-          </Text>
+            <Text>
+            </Text>
         </SafeAreaView>
     )
   }
