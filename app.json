@@ -1,0 +1,12 @@
+{
+  "name": "kareliasport",
+  "displayName": "kareliasport",
+  "expo": {
+    "name": "kareliasport",
+    "slug": "kareliasport",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
